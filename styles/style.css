@@ -4,6 +4,53 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
 }
+.high-sec{
+    background-color: #562EFF;
+    justify-content: space-between;
+    display: flex;
+}
+.nav-var{
+    display: flex;
+    margin-left: 230px;
+    margin-top: 20px;
+}
+.idea{
+    padding-left: 15px;
+    padding-bottom: 25px;
+    color: white;
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 0px;
+    margin-top: 10px
+}
+.nav-ver, img{
+    width: 40.42px;
+    height: 51px;
+    left: 285px;
+    top: 26px;
+}
+.atri{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    list-style: none;
+}
+.atri a{
+color: white;
+padding-right: 15px;
+text-decoration: none;
+}
+.left-side{
+    display: flex;
+    margin-right: 240px;
+    margin-top: 20px;
+}
+.left-side img{
+    margin-left:36px ;
+
+}
 main{
     display: flex;
     flex-direction: column;
